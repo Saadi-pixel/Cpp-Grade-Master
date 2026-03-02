@@ -1,0 +1,13 @@
+# Ignore Executables
+*.exe
+*.out
+*.app
+
+# Ignore Build Objects
+*.o
+*.obj
+
+# Ignore IDE folders
+.vscode/
+.idea/
+
